@@ -1,2 +1,6 @@
-# Isara
-A Discord MCP that lets Claude interact with your account, monitor DMs in real time, and respond to messages through natural language commands with minimal usage overhead.
+# Requirements
+- You only require nlohmann's json header-only library.
+
+# Message.
+I used claude for assistance writing this, so i would say 50% vibecoded and the rest 50% self-coded.
+I made this as i feel like getting into the AI scene possibly.
